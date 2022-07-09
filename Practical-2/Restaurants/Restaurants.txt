@@ -1,0 +1,144 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset = "utf-8"> 
+        <title>Flowers </title> 
+        <link rel="icon" type="image/png" href="images/icon32.png" sizes="32x3 2" /> 
+        <link rel="icon" type="image/png" href="images/favicon-
+16x16.png" sizes="16x16" /> 
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Ro boto+Slab" rel="stylesheet"> 
+        <link rel="stylesheet" href="Points.css">     
+    </head> 
+    <body> 
+        <header> 
+            <div id="heading"> 
+                <p><strong>RESTAURANTS</strong></p> 
+            </div> 
+            <img id="author-pic" src="Photo.jpeg"> 
+            <div id = "profile"> 
+                <br> 
+                <div id="author">Munish Sharma</div> 
+                <div id="date">Last updated Feb 27, 2022</div><hr> 
+            </div> 
+        </header> 
+        <section> 
+        <div id = "Listicle"> 
+            <div id="flex-container"> 
+                <div class="ListNumber">1.</div> 
+                <div id="Flex-Content"> 
+                  <div class="List-Heading">THE LALIT 
+                    <br><em>IT PARK, Chandigarh</em> 
+                  </div> 
+                  <div class="space_20px"></div> 
+                  <div class="List-Body">
+                    This all day diner serves a range of cuisines, from authentic Indian dishes to 
+                    continental and Pan-Asian specialties.
+                    For those looking for a private meal with friends, family or associates, there is
+                    a 20-seater private dining room. Besides an a-la-carte menu the restaurant offers
+                    buffet options as well. 
+                    HOURS
+                    Breakfast: 07:30 am to 10:30 am
+                    
+                    Lunch: 12:30 pm to 03:30 pm
+                    
+                    Dinner: 07:30 pm to 11:30 pm
+                    
+                    BOOK A TABLE
+                    +91 82880 33856, +91 82880 33807
+                    <div class="space_20px"></div> 
+                      
+                  </div> 
+                  <div class="space_20px"></div> 
+                  <img src="The Lalit.jpg"> 
+                </div> 
+            </div> 
+        <!--------------------------------------------------------------------
+----------------------------------------> 
+        <div class="space_120px"></div> 
+        <!--------------------------------------------------------------------
+----------------------------------------> 
+ 
+            <div id="flex-container"> 
+                <div class="ListNumber">2.</div> 
+                <div id="Flex-Content"> 
+                <div class="List-Heading">SAFFRON
+                <br><em>Sector-35B, Chandigarh</em> 
+                </div> 
+                <div class="space_20px"></div> 
+                <div class="List-Body"> 
+                The desserts offer a perfect slice of regional fare. Choose from 'Bharwan Gulab 
+                Jamun', 'Amritsari Phirni' or 'Amritsari Gud Ka Halwa’ A meal at Saffron would be 
+                incomplete if you did not try ‘Dal Saffron’ and ‘Dhabha Gosht’ If you like home-style 
+                cooking, then you will relish ‘Tari Wala Desi Kukkad’ and ‘Amritsari Aloo Wadiyon ki 
+                Subzi’
+                    <div class="space_20px"></div> 
+                   
+                </div>  
+                <div class="space_20px"></div> 
+                <img src="Saffron.jpg"> 
+                </div> 
+            </div>          <!-------------------------------------------------------------------
+-----------------------------------------> 
+         <div class="space_120px"></div> 
+        <!--------------------------------------------------------------------
+----------------------------------------> 
+         
+            <div id="flex-container"> 
+                <div class="ListNumber">3.</div> 
+                <div id="Flex-Content"> 
+                <div class="List-Heading">BARBEQUE NATION
+                    <br><em>Sector-26, Chandigarh</em> 
+                </div> 
+                <div class="space_20px"></div> 
+                <div class="List-Body"> 
+                The menu of Barbeque Nation, Sector 26, Chandigarh is either physically collected from
+                the restaurant or received through the mail. Dishes and their prices contained in the
+                menu may have altered since the last update. EazyDiner does not guarantee the 
+                availability and price of any dish listed on the menu. Patrons may check the prices with
+                the restaurant before reserving a table. The images of the menu used on the application
+                /website, have been watermarked by EazyDiner. Please feel free to download or save these
+                images, however, refrain from using them for any commercial purpose. A breach of the
+                same is subject to legal action.
+                    <div class="space_20px"></div> 
+                    
+                </div> 
+                <div class="space_20px"></div> 
+                <img src="Barbeque Nation.jpg"> 
+                </div> 
+            </div> 
+           <!-----------------------------------------------------------------
+-------------------------------------------> 
+           <div class="space_120px"></div>  
+        <!--------------------------------------------------------------------
+----------------------------------------> 
+            <div id="flex-container"> 
+                <div class="ListNumber">4.</div> 
+                <div id="Flex-Content"> 
+                <div class="List-Heading">The Cafe @ JW
+                    <br><em>Sector-35B, Chandigarh</em> 
+                </div> 
+                <div class="space_20px"></div> 
+                <div class="List-Body"> 
+                The Café@JW is a contemporary all day dining restaurant that serves an assortment of 
+                authentic Indian and International cuisines. Choose to dine in or enjoy the Marriott 
+                food experience in the comfort of your home with Marriott on Wheels delivery services.
+                Order from specially curated menu featuring our signature dishes.
+                    <div class="space_20px"></div> 
+                </div> 
+                <div class="space_20px"></div> 
+                <img src="The Cafe @ JW.jpg"> 
+                </div> 
+            </div> 
+           <!-----------------------------------------------------------------------------------------------------------> 
+           <!-----------------------------------------------------------------
+-------------------------------------------> 
+            
+        </div> 
+        </section> 
+        <footer> 
+            <marquee> 
+                <p>Made by Munish Sharma, CO20333, CSE 2nd year</p> 
+            </marquee> 
+        </footer> 
+    </body> 
+</html> 
